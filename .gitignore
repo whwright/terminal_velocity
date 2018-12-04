@@ -4,3 +4,6 @@
 MANIFEST
 dist/*
 terminal_velocity.egg-info/
+.debinate/build/
+.debinate/cache/
+.debinate/target/
